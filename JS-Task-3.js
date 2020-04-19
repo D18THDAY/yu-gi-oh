@@ -36,5 +36,3 @@ let myFunction = function(x){
 
 	
 myFunction(100);
-
-myFunction(50);
